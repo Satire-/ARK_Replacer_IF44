@@ -868,7 +868,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Germans_m\GER_Wehrmacht\WW2_A_frame.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Germans_t\GER_Wehrmacht\ger_equipment_0_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_GER_A_frame_AT: B_LIB_GER_A_frame
 	{
@@ -923,7 +923,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Germans_m\GER_Wehrmacht\WW2_Radio.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Germans_t\GER_Wehrmacht\ger_equipment_3_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 		supplyRadius = 0;
 		mass = 150;
 		class TransportItems
@@ -943,7 +943,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Germans_m\GER_Wehrmacht\WW2_Sap_backpack.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Germans_t\GER_Wehrmacht\German_rucksack_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_GER_SapperBackpack: B_LIB_GER_Backpack
 	{
@@ -1004,7 +1004,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Germans_m\GER_Wehrmacht\WW2_Lodu_german_medic_bag.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Germans_t\GER_Wehrmacht\Lodu\lodu_german_medic_bag_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 		class TransportItems
 		{
 			class _xx_Medikit
@@ -1041,7 +1041,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Germans_m\GER_Wehrmacht\WW2_Ger_paradrop.p3d";
 		hiddenSelections[] = {"camo_0"};
 		hiddenSelectionsTextures[] = {"ww2\assets_t\characters\germans_t\ger_wehrmacht\paradrop_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_GER_Panzer: B_LIB_AssaultPack_Base
 	{
@@ -1053,7 +1053,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Germans_m\GER_Wehrmacht\WW2_Lodu_guer_rocket_bag.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Germans_t\GER_Wehrmacht\Lodu\lodu_wh_rocket_bag_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 		class TransportMagazines
 		{
 			class _xx_LIB_1Rnd_RPzB

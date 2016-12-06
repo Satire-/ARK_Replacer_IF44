@@ -878,7 +878,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Americans_m\US_Army\WW2_lodu_us_backpack.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Americans_t\US_Army\lodu_bagpack_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_US_Backpack_dday: B_LIB_US_Backpack
 	{
@@ -914,7 +914,7 @@ class CfgVehicles
 		scopeCurator = 1;
 		scopeArsenal = 1;
 		displayName = "$STR_CTH_B_LIB_US_MedicBackpack";
-		maximumLoad = 200;
+		maximumLoad = 300;
 		class TransportItems
 		{
 			class _xx_Medikit
@@ -947,7 +947,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Americans_m\US_Army\WW2_lodu_us_rocket_bag.p3d";
 		hiddenSelections[] = {"camo1"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Americans_t\US_Army\lodu_us_bags01_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 		class TransportMagazines
 		{
 			class _xx_LIB_1Rnd_60mm_M6
@@ -994,7 +994,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Americans_m\US_Army\WW2_lodu_us_bandoleer.p3d";
 		hiddenSelections[] = {"camo1"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Americans_t\US_Army\lodu_us_bags01_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_US_MGbag: B_LIB_AssaultPack_Base
 	{
@@ -1007,7 +1007,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Americans_m\US_Army\WW2_lodu_MG_bag.p3d";
 		hiddenSelections[] = {"camo1"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Americans_t\US_Army\lodu_us_bags01_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 		class TransportMagazines
 		{
 			class _xx_LIB_20Rnd_762x63

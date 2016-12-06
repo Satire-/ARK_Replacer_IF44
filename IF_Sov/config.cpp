@@ -1139,7 +1139,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Soviets_m\SOV_RKKA\WW2_Gas_kit.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Soviets_t\SOV_RKKA\sov_equipment_0_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_SOV_RA_Paradrop: B_LIB_AssaultPack_Base
 	{
@@ -1149,7 +1149,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Soviets_m\SOV_RKKA\WW2_Para_vest.p3d";
 		hiddenSelections[] = {"camo_0"};
 		hiddenSelectionsTextures[] = {"ww2\assets_t\characters\soviets_t\sov_rkka\sov_pilot_eqip_0_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_SOV_RA_MedicalBag: B_LIB_AssaultPack_Base
 	{
@@ -1161,7 +1161,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Soviets_m\SOV_RKKA\WW2_Med_kit.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Soviets_t\SOV_RKKA\sov_equipment_4_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 		class TransportItems
 		{
 			class _xx_Medikit
@@ -1211,7 +1211,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Soviets_m\SOV_RKKA\WW2_Ruck1.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Soviets_t\SOV_RKKA\sov_equipment_0_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 	};
 	class B_LIB_SOV_RA_Rucksack_Green: B_LIB_SOV_RA_Rucksack
 	{
@@ -1284,7 +1284,7 @@ class CfgVehicles
 		model = "\WW2\Assets_m\Characters\Soviets_m\SOV_RKKA\WW2_Mg_kit.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\Assets_t\Characters\Soviets_t\SOV_RKKA\sov_equipment_4_co.paa"};
-		maximumLoad = 200;
+		maximumLoad = 300;
 		class TransportMagazines
 		{
 			class _xx_lib_47Rnd_762x54
